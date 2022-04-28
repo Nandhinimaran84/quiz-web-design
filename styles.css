@@ -48,6 +48,7 @@
     .card-column {
       float:left;
       width: 33.33%;
+      margin: 0 10% 0 10%;
     }
     
     .card {
