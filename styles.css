@@ -5,8 +5,8 @@
         font-family: 'Raleway', sans-serif;
         background: linear-gradient(145deg, #dffeff, #bbd5d8);
 	height:100vh;
-	background-size: cover;
-        background-image: url('../img/robert.jpg');
+	
+        background-image: url('../img/sea.jpg');
         }
 	
         box-shadow: 5px 5px 10px #b7d1d3, -5px -5px 10px #e9ffff;
